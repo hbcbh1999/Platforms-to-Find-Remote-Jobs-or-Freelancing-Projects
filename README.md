@@ -11,6 +11,7 @@ A comprehensive list of 70+ places to find Remote Jobs or Freelancing Projects. 
 <strong><a href="https://findbacon.com/jobs/remote">FindBacon</a></strong><br>A single location for designers and developers to find only the highest quality job posts from around the web.<br><br>
 <strong><a href="http://flexjobs.com">FlexJobs</a></strong><br>Access best remote and flexible jobs—part-time to full-time, entry-level to executive, in 50+ categories.<br><br>
 <strong><a href="http://freelancer.com">Freelancer</a></strong><br>Employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.<br><br>
+<strong><a href="https://freshremote.work">FreshRemote.work</a></strong><br>Find fresh remote jobs and talents anywhere.<br><br>
 <strong><a href="https://gigrove.com">GigRove</a></strong><br>Internet’s Largest Database of Remote Jobs ranging from software development to the design and so on.<br><br>
 <strong><a href="https://gigster.com">Gigster 2.0</a></strong><br>An invite-only network of world-class developers, designers, and product managers. 1,000+ engineers are on waitlist.<br><br>
 <strong><a href="https://goremote.io">GoRemote</a></strong><br>GoRemote.io aggregates all of the remote friendly tech jobs in one place.<br><br>
